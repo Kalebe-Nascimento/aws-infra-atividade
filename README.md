@@ -1,3 +1,7 @@
+<b> Conexão SSH EC2 </b>
+
+<b>https://youtu.be/BgY2PZliISI </b>
+
 <b> Configuração de Infraestrutura AWS </b>
 
 Descrição dos passos que realizei para configurar a infraestrutura na AWS, incluindo a criação de grupos de segurança, instância EC2 e banco de dados RDS PostgreSQL.
@@ -71,5 +75,7 @@ Cliquei em "Launch" para criar a instância.
 7. O nome do banco inicial não foi necessário pois utilizei o Prisma.
 
 Finalizei a criação do banco de dados.
+
+
 
 Após a criação, anotei o endpoint do banco de dados gerado para conexão futura.
