@@ -2,6 +2,10 @@
 
 <b>https://youtu.be/BgY2PZliISI </b>
 
+<b> Conexão com o RDS </b>
+
+<b> https://youtu.be/SojZox_8cH4 </b>
+
 <b> Configuração de Infraestrutura AWS </b>
 
 Descrição dos passos que realizei para configurar a infraestrutura na AWS, incluindo a criação de grupos de segurança, instância EC2 e banco de dados RDS PostgreSQL.
